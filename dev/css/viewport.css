@@ -1,0 +1,26 @@
+@media( max-width: 50.5em ){
+  html {
+    font-size: 1.95vmin;
+  }
+  .secondary div {
+    transform: scale( 1.125 );
+  }
+}
+
+@media( max-height: 47em ) {
+  html {
+    font-size: 1.95vmin;
+  }
+  .secondary div {
+    transform: scale( 1.125 );
+  }  
+}
+
+@media( min-width: 50.5em ){
+  html {
+    font-size: 1.07em;
+  }
+  .secondary div {
+    transform: scale( 1.125 );
+  }
+}
